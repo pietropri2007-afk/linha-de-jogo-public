@@ -1,9 +1,9 @@
 {
   "schema": 1,
   "repository": "pietropri2007-afk/linha-de-jogo-public",
-  "tag": "public-57d4629f5055797999d79eab",
+  "tag": "public-03dd59a2d496e3be69242993",
   "asset": "site.json.gz",
-  "sha256": "57d4629f5055797999d79eabcba247cc051148cb82764c4332e9c6adb599b946",
-  "bytes": 27043339,
-  "requestedAt": "2026-10-18T00:40:15.850Z"
+  "sha256": "03dd59a2d496e3be692429933ec75e4ae397cb8053bcfd4d86821b0140d2f133",
+  "bytes": 24322004,
+  "requestedAt": "2026-10-18T17:20:03.176Z"
 }
